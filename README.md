@@ -1,41 +1,33 @@
 # Ramzi Bouter
 
-**Software Engineer | Aspiring DevOps Engineer**
+**Software Engineer · DevOps & Systems**
 
-Bonjour, je suis Ramzi, ingénieur logiciel basé à Alger, en Algérie.
+Software engineer based in Algiers, Algeria.
 
-Je m'intéresse particulièrement au développement logiciel, à l'administration système et aux pratiques DevOps. J'aime comprendre comment les applications sont conçues, déployées et maintenues.
+Interested in software engineering, system administration, infrastructure and DevOps. I enjoy building applications, exploring how systems work and learning how to deploy, automate and maintain reliable environments.
 
-Actuellement, je développe mes compétences en infrastructure, conteneurisation et automatisation.
+Currently focusing on Linux, Docker, PostgreSQL and deployment workflows.
 
 ---
 
-### Technologies
+### Technical Skills
 
-**Languages**
+**Programming**  
+Python · JavaScript · TypeScript · HTML · CSS
 
-HTML · JavaScript · TypeScript · Python
+**Backend & Frontend**  
+Django · Flask · Node.js · React · Next.js · Tailwind CSS
 
-**Frameworks & Libraries**
-
-Django · Flask · React · Next.js · Node.js · Tailwind CSS · DaisyUI
-
-**Databases**
-
+**Databases**  
 PostgreSQL · MySQL · MongoDB
 
-**Tools & Others**
-
-Git · Figma · LaTeX
+**Tools**  
+Git · Linux · Docker · Figma
 
 ---
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ramzi-bouter/)
-- [Instagram](https://instagram.com/ramzil.e)
-- Location: Algiers, Algeria
+[LinkedIn](https://www.linkedin.com/in/ramzi-bouter/)
 
----
-
-*Always learning. Always building.*
+[Email](mailto:)
