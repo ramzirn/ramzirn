@@ -1,33 +1,43 @@
 # Ramzi Bouter
 
-**Software Engineer · DevOps & Systems**
+**Software Engineer | DevOps & Systems**
+Alger, Algérie
 
-Software engineer based in Algiers, Algeria.
-
-Interested in software engineering, system administration, infrastructure and DevOps. I enjoy building applications, exploring how systems work and learning how to deploy, automate and maintain reliable environments.
-
-Currently focusing on Linux, Docker, PostgreSQL and deployment workflows.
+Ingénieur logiciel passionné par l'infrastructure, l'administration système et le DevOps. J'aime construire des applications, comprendre comment les systèmes fonctionnent en profondeur, et mettre en place des environnements fiables, automatisés et faciles à maintenir.
 
 ---
 
-### Technical Skills
+## En ce moment
 
-**Programming**  
-Python · JavaScript · TypeScript · HTML · CSS
-
-**Backend & Frontend**  
-Django · Flask · Node.js · React · Next.js · Tailwind CSS
-
-**Databases**  
-PostgreSQL · MySQL · MongoDB
-
-**Tools**  
-Git · Linux · Docker · Figma
+- Approfondissement de Linux et de l'administration système
+- Conteneurisation et orchestration avec Docker
+- Administration et optimisation de PostgreSQL
+- Workflows de déploiement et d'automatisation
 
 ---
 
-### Connect
+## Compétences
 
-[LinkedIn](https://www.linkedin.com/in/ramzi-bouter/)
+| Domaine | Technologies |
+|---|---|
+| Langages | Python, JavaScript, TypeScript, HTML, CSS |
+| Backend | Django, Flask, Node.js |
+| Frontend | React, Next.js, Tailwind CSS |
+| Bases de données | PostgreSQL, MySQL, MongoDB |
+| DevOps & Systèmes | Linux, Docker, Git |
+| Design | Figma |
 
-[Email](mailto:)
+---
+
+## Projets sélectionnés
+
+- **[Nom du projet](lien)** : une phrase sur ce qu'il fait et la stack utilisée.
+- **[Nom du projet](lien)** : une phrase sur ce qu'il fait et la stack utilisée.
+- **[Nom du projet](lien)** : une phrase sur ce qu'il fait et la stack utilisée.
+
+---
+
+## Contact
+
+- LinkedIn : [ramzi-bouter](https://www.linkedin.com/in/ramzi-bouter/)
+- Email : [ton-adresse@exemple.com](mailto:ton-adresse@exemple.com)
