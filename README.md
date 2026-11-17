@@ -25,4 +25,3 @@ Je me concentre actuellement sur Linux, Docker, PostgreSQL et les workflows de d
 ## Contact
 
 - LinkedIn : [ramzi-bouter](https://www.linkedin.com/in/ramzi-bouter/)
-- Email : [ton-adresse@exemple.com](mailto:ton-adresse@exemple.com)
