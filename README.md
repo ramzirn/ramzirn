@@ -1,27 +1,32 @@
 # Ramzi Bouter
 
 **Software Engineer | DevOps & Systems**
-Alger, Algérie
+Algiers, Algeria
 
-Ingénieur logiciel passionné par l'infrastructure, l'administration système et le DevOps. J'aime construire des applications, comprendre comment les systèmes fonctionnent en profondeur, et mettre en place des environnements fiables, automatisés et faciles à maintenir.
+Software engineer focused on infrastructure, system administration, and DevOps. I build applications, dig into how systems work under the hood, and set up environments that are reliable, automated, and easy to maintain.
 
-Je me concentre actuellement sur Linux, Docker, PostgreSQL et les workflows de déploiement.
+Currently focused on Linux, Docker, PostgreSQL, and deployment workflows.
 
 ---
 
-## Compétences
+## Featured Project
 
-| Domaine | Technologies |
-|---|---|
-| Langages | Python, JavaScript, TypeScript, HTML, CSS |
-| Backend | Django, Flask, Node.js |
-| Frontend | React, Next.js, Tailwind CSS |
-| Bases de données | PostgreSQL, MySQL, MongoDB |
-| DevOps & Systèmes | Linux, Docker, Git |
-| Design | Figma |
+**[Linux Server Infrastructure](REPO_URL)**
+A complete Linux infrastructure built from a bare Ubuntu Server install: SSH hardening, UFW, Fail2ban, AppArmor, LVM, Docker Compose, Nginx reverse proxy, and a Prometheus and Grafana monitoring stack. Documented in 9 phases.
+
+---
+
+## Skills
+
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
+- **Backend:** Django, Flask, Node.js
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **DevOps & Systems:** Linux, Docker, Git
+- **Design:** Figma
 
 ---
 
 ## Contact
 
-- LinkedIn : [ramzi-bouter](https://www.linkedin.com/in/ramzi-bouter/)
+- LinkedIn: [ramzi-bouter](https://www.linkedin.com/in/ramzi-bouter/)
